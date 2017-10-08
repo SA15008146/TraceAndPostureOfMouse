@@ -1,0 +1,1 @@
+pre_post = Trace{1,1}(:,2:end)-Trace{1,1}(:,2:end);
